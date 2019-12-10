@@ -29,8 +29,6 @@ while (arr1.length >0 || arr2.length >0){
 
 function mergeSort(array) {
 
-
- 
   if (array.length <= 1){
     return array
   }
